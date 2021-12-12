@@ -1,0 +1,38 @@
+QuestInfoList = {}
+QuestInfoList = {
+	[66000] = {
+		Title = "The Boy Who Cried Wolf",
+		Description = {
+			"Noelle insists there's angels in Mt. Mjolnir. Although you are not fully convinced that he knows what he's talking about, you decided to entertain his thoughts. Head towards <NAVI>Aldebaran South Gate<INFO>aldebaran,140,43,0,000,0</INFO></NAVI>."
+		},
+		Summary = "Go to Aldebaran South Gate"
+	},
+	[66001] = {
+		Title = "The Boy Who Cried Wolf",
+		Description = {
+			"Much to your dismay, Noelle is ill-equipped for battle. Perhaps you should bring him something to fight with. Go back to South Aldebaran Gate with a Town Sword[1] and a Buckler[0] and meet with Noelle again."
+		},
+		Summary = "Bring Town Sword[1] and Buckler[0]."
+	},
+	[66002] = {
+		Title = "The Boy Who Cried Wolf",
+		Description = {
+			"After covering your needs, Noelle and you travel to the skirts of Mt.Mjolnir. Deep inside, you start to feel like questioning if you made the right choices. Go to <NAVI>Mt. Mjolnir field<INFO>mjolnir_05,220,374,0,000,0</INFO></NAVI>."
+		},
+		Summary = "Go to mjolnir_05."
+	},
+	[66003] = {
+		Title = "The Boy Who Cried Wolf",
+		Description = {
+			"Noelle is in danger! Quick! Get those Argiopes off him!"
+		},
+		Summary = "Kill 20 Argiopes"
+	},
+	[66004] = {
+		Title = "To be continued...",
+		Description = {
+			"Well, appears that Noelle wasn't lying after all. However, in his excitement, he has ran off <NAVI>somewhere<INFO>mjolnir_04,370,173,0,000,0</INFO></NAVI>..."
+		},
+		Summary = "Go to mjolnir_04."
+	},
+}

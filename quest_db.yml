@@ -1,0 +1,18 @@
+Header:
+  Type: QUEST_DB
+  Version: 2
+  
+Body:
+  - Id: 66000
+    Title: The Boy Who Cried Wolf
+  - Id: 66001
+    Title: The Boy Who Cried Wolf
+  - Id: 66002
+    Title: The Boy Who Cried Wolf
+  - Id: 66003
+    Title: The Boy Who Cried Wolf
+    Targets:
+      - Mob: ARGIOPE
+        Count: 20
+  - Id: 66004
+    Title: To be continued...  
