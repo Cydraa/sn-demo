@@ -1,5 +1,5 @@
 aldeba_in, 215,174,4	script	Club Member	10351,{
-if (snquest == 1) {
+if (snquest >= 1) {
 		cutin "bu_oliver1.bmp",2;
 		mes "[^3355FFNoelle^000000]";
 		mes "Well? Let's go! No time to waste!!";
